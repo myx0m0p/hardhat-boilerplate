@@ -1,0 +1,9 @@
+node_modules
+build
+deployments/localhost
+.openzeppelin
+.env
+.vscode
+artifacts
+cache
+typechain-types
